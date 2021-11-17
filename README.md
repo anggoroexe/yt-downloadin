@@ -2,8 +2,8 @@
 simple tools using module ytube on python3
 
 # usage
-sudo apt-get install python3
-sudo apt install python3-pip
+sudo apt-get install python3\n
+sudo apt install python3-pip\n
 pip3 install pytube
 
 # screenshot
